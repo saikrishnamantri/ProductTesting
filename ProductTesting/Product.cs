@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProductTesting
 {
-    internal class Product
+    public class Product
     {
         //Creating Properties
         public int ProductId { get; set; }
